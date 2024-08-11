@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/akshat/ros2_ws/install/my_robot_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/akshat/Downloads/code_end_section_7_interfaces/src/my_cpp_pkg/include/**",
+        "/home/akshat/MRM_AkshatGupta/Ros2 task/ros2_ws/src/leo_rover/include/**",
+        "/home/akshat/MRM_AkshatGupta/Ros2 task/ros2_ws/src/my_cpp_pkg/include/**",
+        "/home/akshat/MRM_AkshatGupta_Finaltest2/q1/final/src/cpp/include/**",
+        "/home/akshat/final/src/cpp/include/**",
+        "/home/akshat/prac/src/practice/include/**",
+        "/home/akshat/ros2_ws/src/my_cpp_pkg/include/**",
+        "/home/akshat/src/my_cpp_pkg/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
