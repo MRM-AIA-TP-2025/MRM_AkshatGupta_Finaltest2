@@ -3,7 +3,7 @@ import cv2, numpy as np, argparse
 ap = argparse.ArgumentParser()
 cap=cv2.VideoCapture(0)
 while cap.isOpened()
-    re,frame=cap.read()
+    re,img=cap.read()
     #convert the image to grayscale
     gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
     #apply canny edge detection to the image
