@@ -12,3 +12,5 @@ class PWM{
         
     }
 }
+int main(){
+    n=PWM()
